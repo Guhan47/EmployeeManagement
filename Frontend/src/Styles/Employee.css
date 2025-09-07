@@ -1,11 +1,10 @@
 * {
   font-family: 'Poppins';
-
 }
-
 .totalpage {
   width: 100%;
   height: 100vh;
+  overflow-y:hidden;
   display: flex;
   font-family: Arial, sans-serif;
 }
