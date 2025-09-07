@@ -169,7 +169,7 @@ button {
   transform: scale(1.2);
 }
 
-tr td .norecords {
+tr td.norecords {
   height: 40vh;
 }
 
