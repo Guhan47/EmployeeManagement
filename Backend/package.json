@@ -1,10 +1,10 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "Express/App.js",
+  "main": "Express/server.js",
   "scripts": {
-    "start": "node Express/App.js",
-    "dev": "nodemon Express/App.js"
+    "start": "node Express/server.js",
+    "dev": "nodemon Express/server.js"
   },
   "keywords": [],
   "author": "",
